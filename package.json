@@ -1,0 +1,25 @@
+{
+  "name": "readable-date",
+  "version": "1.0.0",
+  "description": "convert your dates to human readabl datee ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandeyashish17/readable-date.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "ashish pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandeyashish17/readable-date/issues"
+  },
+  "homepage": "https://github.com/Pandeyashish17/readable-date#readme",
+  "dependencies": {
+    "readable-date": "^1.0.0"
+  }
+}
